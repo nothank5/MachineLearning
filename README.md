@@ -1,2 +1,2 @@
 # MachineLearning
-Getting started with machine learning Today, machine learning—the study of algorithms that make data-based predictions—has found a new audience and a new set of possibilities.
+Machine learning is the practice of teaching a computer to learn. The concept uses pattern recognition, as well as other forms of predictive algorithms, to make judgments on incoming data. This field is closely related to artificial intelligence and computational statistics.
